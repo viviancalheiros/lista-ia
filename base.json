@@ -1,0 +1,30 @@
+{
+    "regras": [
+        {"id": "R1", "ant": {"Dor nos olhos": "sim", "Olho vermelho": "sim"}, "con": {"Alerta de inflamação": "sim"}},
+        {"id": "R2", "ant": {"Alerta de inflamação": "sim", "Secreção amarelada": "sim"}, "con": {"Diagnóstico": "Conjuntivite bacteriana"}},
+        {"id": "R3", "ant": {"Alerta de inflamação": "sim", "Coceira intensa": "sim"}, "con": {"Diagnóstico": "Conjuntivite alérgica"}},
+        
+        {"id": "R4", "ant": {"Visão embaçada": "sim", "Idade acima de 60 anos": "sim"}, "con": {"Alerta degenerativo": "sim"}},
+        {"id": "R5", "ant": {"Alerta degenerativo": "sim", "Perda de visão central": "sim"}, "con": {"Diagnóstico": "Degeneração macular"}},
+        {"id": "R6", "ant": {"Alerta degenerativo": "sim", "Visão opaca como névoa": "sim"}, "con": {"Diagnóstico": "Catarata"}},
+        
+        {"id": "R7", "ant": {"Dor nos olhos": "sim", "Visão embaçada": "sim"}, "con": {"Alerta de pressão ocular": "sim"}},
+        {"id": "R8", "ant": {"Alerta de pressão ocular": "sim", "Perda de visão periférica": "sim"}, "con": {"Diagnóstico": "Glaucoma crônico"}},
+        {"id": "R9", "ant": {"Alerta de pressão ocular": "sim", "Ver halos ao redor de luzes": "sim"}, "con": {"Diagnóstico": "Glaucoma agudo"}},
+        
+        {"id": "R10", "ant": {"Sensação de areia nos olhos": "sim", "Ardor ou queimação": "sim"}, "con": {"Diagnóstico": "Síndrome do olho seco"}},
+        
+        {"id": "R11", "ant": {"Visão embaçada": "sim", "Dificuldade para ler de perto": "sim"}, "con": {"Diagnóstico": "Presbiopia (Vista cansada)"}},
+        {"id": "R12", "ant": {"Visão embaçada": "sim", "Dificuldade para enxergar de longe": "sim"}, "con": {"Diagnóstico": "Miopia"}},
+        
+        {"id": "R13", "ant": {"Diagnóstico": "Conjuntivite bacteriana"}, "con": {"Recomendação": "Consultar oftalmologista para prescrição de colírio antibiótico e higienizar com soro."}},
+        {"id": "R14", "ant": {"Diagnóstico": "Conjuntivite alérgica"}, "con": {"Recomendação": "Evitar alérgenos, usar compressas frias e colírios anti-histamínicos sob orientação."}},
+        {"id": "R15", "ant": {"Diagnóstico": "Degeneração macular"}, "con": {"Recomendação": "Agendar consulta urgente. Pode exigir suplementação vitamínica específica ou infiltrações."}},
+        {"id": "R16", "ant": {"Diagnóstico": "Catarata"}, "con": {"Recomendação": "Avaliar com o cirurgião oftalmologista a necessidade de procedimento cirúrgico de substituição do cristalino."}},
+        {"id": "R17", "ant": {"Diagnóstico": "Glaucoma crônico"}, "con": {"Recomendação": "Uso contínuo de colírios hipotensores prescritos para evitar a perda progressiva e irreversível da visão."}},
+        {"id": "R18", "ant": {"Diagnóstico": "Glaucoma agudo"}, "con": {"Recomendação": "EMERGÊNCIA MÉDICA! Dirija-se imediatamente ao pronto-socorro oftalmológico para reduzir a pressão ocular."}},
+        {"id": "R19", "ant": {"Diagnóstico": "Síndrome do olho seco"}, "con": {"Recomendação": "Utilizar lágrimas artificiais sem conservantes e fazer pausas no uso de telas (computador/celular)."}},
+        {"id": "R20", "ant": {"Diagnóstico": "Presbiopia (Vista cansada)"}, "con": {"Recomendação": "Realizar exame de refração para confecção de óculos de leitura."}},
+        {"id": "R21", "ant": {"Diagnóstico": "Miopia"}, "con": {"Recomendação": "Realizar exame de refração para prescrição de óculos, lentes de contato ou avaliar cirurgia refrativa."}}
+    ]
+}
