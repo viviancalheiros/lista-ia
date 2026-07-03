@@ -5,7 +5,7 @@ import json
 # --- 1. CONFIGURAÇÃO E CARREGAMENTO DA BASE EXTERNA ---
 st.set_page_config(page_title="Sistema CBR Médico", page_icon="🩺", layout="wide")
 
-# Função em cache para carregar a base de dados em JSON sem prejudicar a performance
+# Função em cache para carregar a base de dados em JSON
 @st.cache_data
 def carregar_base_cbr():
     with open("base_casos_medicos.json", "r", encoding="utf-8") as arquivo:

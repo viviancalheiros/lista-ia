@@ -3,7 +3,7 @@ import random
 import math
 import json
 
-# --- 1. CARREGAMENTO DESACOPLADO DA BASE DE CONHECIMENTO JSON ---
+# --- 1. CARREGAMENTO DA BASE DE CONHECIMENTO JSON ---
 # Lê o arquivo JSON externo e converte para dicionários nativos do Python
 @st.cache_data
 def carregar_base_conhecimento():
@@ -53,7 +53,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# --- [FUNCIONALIDADE MODULAR DE LOG ACUMULATIVO] Função criadora do documento ---
+# --- [FUNCIONALIDADE DE LOG ACUMULATIVO] Função criadora do documento ---
 def gerar_log_txt():
     """Gera a string contendo o histórico de TODAS as partidas completas da sessão."""
     texto = "=== REGISTRO ACUMULADO DE PARTIDAS - AKINATOR IA ===\n\n"
@@ -85,7 +85,7 @@ if 'tela' not in st.session_state: st.session_state.tela = 'MENU'
 if 'candidatos' not in st.session_state: st.session_state.candidatos = list(BASE_CONHECIMENTO.keys())
 if 'perguntas_feitas' not in st.session_state: st.session_state.perguntas_feitas = set()
 
-# [FUNCIONALIDADE MODULAR DE LOG ACUMULATIVO]
+# [FUNCIONALIDADE DE LOG ACUMULATIVO]
 if 'partidas_salvas' not in st.session_state: st.session_state.partidas_salvas = []
 if 'historico_atual' not in st.session_state: st.session_state.historico_atual = []
 
