@@ -1,0 +1,258 @@
+=== REGISTRO ACUMULADO DE PARTIDAS - AKINATOR IA ===
+
+--- TENTATIVA 1 ---
+PERGUNTAS E RESPOSTAS:
+  1. É famoso por conseguir mudar de cor para se camuflar? -> NAO
+  2. É um mamífero (dá de mamar aos filhotes)? -> SIM
+  3. Possui exatamente quatro patas para caminhar? -> SIM
+  4. É comum ser criado como animal de estimação em casas? -> SIM
+  5. Possui hábitos predominantemente noturnos (ativo à noite)? -> NAO
+
+RESULTADO DA INFERÊNCIA:
+  Animal concluído com certeza: Cachorro 🐶
+
+==================================================
+
+--- TENTATIVA 2 ---
+PERGUNTAS E RESPOSTAS:
+  1. Esse animal bota ovos? -> NAO
+  2. Possui o corpo coberto por pelos? -> SIM
+  3. É comum ser criado como animal de estimação em casas? -> SIM
+  4. Possui hábitos predominantemente noturnos (ativo à noite)? -> NAOSEI
+  5. Sua principal forma de locomoção rápida inclui dar saltos? -> NAO
+
+RESULTADO DA INFERÊNCIA:
+  Animal concluído com certeza: Cachorro 🐶
+
+==================================================
+
+--- TENTATIVA 3 ---
+PERGUNTAS E RESPOSTAS:
+  1. Possui 8 ou mais pernas, braços ou tentáculos? -> NAO
+  2. É um mamífero (dá de mamar aos filhotes)? -> SIM
+  3. Possui exatamente quatro patas para caminhar? -> SIM
+  4. É comum ser criado como animal de estimação em casas? -> SIM
+  5. Possui hábitos predominantemente noturnos (ativo à noite)? -> NAOSEI
+  6. Sua principal forma de locomoção rápida inclui dar saltos? -> NAOSEI
+  7. É uma ave? -> NAO
+  8. Passa boa parte da vida dentro d'água? -> NAO
+  9. Respira debaixo d'água (ex: possui guelras)? -> NAO
+  10. Consegue voar ativamente? -> NAO
+  11. Possui o corpo coberto por pelos? -> SIM
+  12. Possui penas? -> NAO
+  13. Possui escamas na pele? -> NAO
+  14. Esse animal bota ovos? -> NAO
+  15. Possui bico? -> NAO
+  16. É um animal invertebrado (não possui ossos/coluna vertebral)? -> NAO
+  17. Possui antenas visíveis na cabeça? -> NAO
+  18. É famoso por conseguir mudar de cor para se camuflar? -> NAO
+  19. Possui uma carapaça dura, casco ou exoesqueleto forte? -> NAO
+  20. É um animal que NÃO possui patas/pernas? -> NAO
+  21. Possui rabo/cauda visível? -> SIM
+  22. Pode ser peçonhento, venenoso ou soltar toxinas? -> NAO
+  23. É um animal de porte muito grande ou gigante? -> NAO
+  24. É um predador ou tem a carne como base principal de sua dieta? -> SIM
+
+RESULTADO DA INFERÊNCIA:
+  Palpite mais provável do sistema: Cachorro 🐶
+  Outras opções restantes (Incerteza): Gato 🐱
+
+==================================================
+
+--- TENTATIVA 4 ---
+PERGUNTAS E RESPOSTAS:
+  1. É um animal de porte muito grande ou gigante? -> NAO
+  2. Passa boa parte da vida dentro d'água? -> NAO
+  3. Possui o corpo coberto por pelos? -> SIM
+  4. Possui hábitos predominantemente noturnos (ativo à noite)? -> SIM
+  5. É um mamífero (dá de mamar aos filhotes)? -> SIM
+  6. Consegue voar ativamente? -> NAO
+
+RESULTADO DA INFERÊNCIA:
+  Animal concluído com certeza: Gato 🐱
+
+==================================================
+
+--- TENTATIVA 5 ---
+PERGUNTAS E RESPOSTAS:
+  1. Possui escamas na pele? -> NAO
+  2. É um mamífero (dá de mamar aos filhotes)? -> SIM
+  3. Possui exatamente quatro patas para caminhar? -> SIM
+  4. É comum ser criado como animal de estimação em casas? -> SIM
+  5. Possui hábitos predominantemente noturnos (ativo à noite)? -> NAOSEI
+  6. Sua principal forma de locomoção rápida inclui dar saltos? -> SIM
+
+RESULTADO DA INFERÊNCIA:
+  Animal concluído com certeza: Gato 🐱
+
+==================================================
+
+--- TENTATIVA 6 ---
+PERGUNTAS E RESPOSTAS:
+  1. Respira debaixo d'água (ex: possui guelras)? -> NAO
+  2. É um mamífero (dá de mamar aos filhotes)? -> SIM
+  3. Possui exatamente quatro patas para caminhar? -> SIM
+  4. É comum ser criado como animal de estimação em casas? -> NAO
+  5. Passa boa parte da vida dentro d'água? -> NAO
+
+RESULTADO DA INFERÊNCIA:
+  Animal concluído com certeza: Elefante 🐘
+
+==================================================
+
+--- TENTATIVA 7 ---
+PERGUNTAS E RESPOSTAS:
+  1. Possui rabo/cauda visível? -> NAOSEI
+  2. Passa boa parte da vida dentro d'água? -> NAO
+  3. É um mamífero (dá de mamar aos filhotes)? -> SIM
+  4. Sua principal forma de locomoção rápida inclui dar saltos? -> NAO
+  5. Consegue voar ativamente? -> NAO
+  6. É comum ser criado como animal de estimação em casas? -> NAO
+
+RESULTADO DA INFERÊNCIA:
+  Animal concluído com certeza: Elefante 🐘
+
+==================================================
+
+--- TENTATIVA 8 ---
+PERGUNTAS E RESPOSTAS:
+  1. Possui o corpo coberto por pelos? -> NAOSEI
+  2. Passa boa parte da vida dentro d'água? -> NAO
+  3. É um mamífero (dá de mamar aos filhotes)? -> NAOSEI
+  4. Esse animal bota ovos? -> NAO
+  5. Sua principal forma de locomoção rápida inclui dar saltos? -> NAO
+  6. Consegue voar ativamente? -> NAO
+  7. É comum ser criado como animal de estimação em casas? -> NAO
+
+RESULTADO DA INFERÊNCIA:
+  Animal concluído com certeza: Elefante 🐘
+
+==================================================
+
+--- TENTATIVA 9 ---
+PERGUNTAS E RESPOSTAS:
+  1. Esse animal bota ovos? -> NAO
+  2. Possui o corpo coberto por pelos? -> NAOSEI
+  3. Sua principal forma de locomoção rápida inclui dar saltos? -> NAO
+  4. Passa boa parte da vida dentro d'água? -> NAO
+  5. Consegue voar ativamente? -> SIM
+
+RESULTADO DA INFERÊNCIA:
+  Animal concluído com certeza: Morcego 🦇
+
+==================================================
+
+--- TENTATIVA 10 ---
+PERGUNTAS E RESPOSTAS:
+  1. Possui uma carapaça dura, casco ou exoesqueleto forte? -> NAO
+  2. É um mamífero (dá de mamar aos filhotes)? -> SIM
+  3. Possui exatamente quatro patas para caminhar? -> NAO
+  4. Sua principal forma de locomoção rápida inclui dar saltos? -> NAO
+  5. Passa boa parte da vida dentro d'água? -> NAO
+
+RESULTADO DA INFERÊNCIA:
+  Animal concluído com certeza: Morcego 🦇
+
+==================================================
+
+--- TENTATIVA 11 ---
+PERGUNTAS E RESPOSTAS:
+  1. Consegue voar ativamente? -> SIM
+  2. É uma ave? -> NAOSEI
+  3. Possui penas? -> NAOSEI
+  4. Possui hábitos predominantemente noturnos (ativo à noite)? -> SIM
+  5. É um mamífero (dá de mamar aos filhotes)? -> SIM
+
+RESULTADO DA INFERÊNCIA:
+  Animal concluído com certeza: Morcego 🦇
+
+==================================================
+
+--- TENTATIVA 12 ---
+PERGUNTAS E RESPOSTAS:
+  1. Possui uma carapaça dura, casco ou exoesqueleto forte? -> NAO
+  2. É um mamífero (dá de mamar aos filhotes)? -> SIM
+  3. Possui exatamente quatro patas para caminhar? -> NAO
+  4. Sua principal forma de locomoção rápida inclui dar saltos? -> NAO
+  5. Passa boa parte da vida dentro d'água? -> SIM
+
+RESULTADO DA INFERÊNCIA:
+  Animal concluído com certeza: Baleia 🐋
+
+==================================================
+
+--- TENTATIVA 13 ---
+PERGUNTAS E RESPOSTAS:
+  1. Passa boa parte da vida dentro d'água? -> SIM
+  2. Respira debaixo d'água (ex: possui guelras)? -> NAOSEI
+  3. Possui bico? -> NAO
+  4. Possui uma carapaça dura, casco ou exoesqueleto forte? -> NAO
+  5. É um mamífero (dá de mamar aos filhotes)? -> SIM
+
+RESULTADO DA INFERÊNCIA:
+  Animal concluído com certeza: Baleia 🐋
+
+==================================================
+
+--- TENTATIVA 14 ---
+PERGUNTAS E RESPOSTAS:
+  1. É um animal que NÃO possui patas/pernas? -> SIM
+  2. Respira debaixo d'água (ex: possui guelras)? -> NAOSEI
+  3. Possui escamas na pele? -> NAOSEI
+  4. Esse animal bota ovos? -> NAO
+  5. É um mamífero (dá de mamar aos filhotes)? -> SIM
+
+RESULTADO DA INFERÊNCIA:
+  Animal concluído com certeza: Baleia 🐋
+
+==================================================
+
+--- TENTATIVA 15 ---
+PERGUNTAS E RESPOSTAS:
+  1. Sua principal forma de locomoção rápida inclui dar saltos? -> SIM
+  2. É um mamífero (dá de mamar aos filhotes)? -> SIM
+  3. É comum ser criado como animal de estimação em casas? -> NAO
+  4. É uma ave? -> NAO
+  5. Passa boa parte da vida dentro d'água? -> NAO
+  6. Respira debaixo d'água (ex: possui guelras)? -> NAO
+  7. Consegue voar ativamente? -> NAO
+  8. Possui o corpo coberto por pelos? -> NAO
+
+RESULTADO DA INFERÊNCIA:
+  Nenhum animal da base correspondeu exatamenta às características.
+
+==================================================
+
+--- TENTATIVA 16 ---
+PERGUNTAS E RESPOSTAS:
+  1. Possui antenas visíveis na cabeça? -> NAO
+  2. Passa boa parte da vida dentro d'água? -> NAO
+  3. É um mamífero (dá de mamar aos filhotes)? -> SIM
+  4. Sua principal forma de locomoção rápida inclui dar saltos? -> SIM
+  5. É comum ser criado como animal de estimação em casas? -> NAO
+  6. É uma ave? -> NAO
+  7. Respira debaixo d'água (ex: possui guelras)? -> NAO
+  8. Consegue voar ativamente? -> NAO
+  9. Possui o corpo coberto por pelos? -> SIM
+  10. Possui penas? -> NAO
+  11. Possui escamas na pele? -> NAO
+  12. Esse animal bota ovos? -> NAO
+  13. Possui hábitos predominantemente noturnos (ativo à noite)? -> NAOSEI
+  14. Possui bico? -> NAO
+  15. É um animal invertebrado (não possui ossos/coluna vertebral)? -> NAO
+  16. Possui 8 ou mais pernas, braços ou tentáculos? -> NAO
+  17. É famoso por conseguir mudar de cor para se camuflar? -> NAO
+  18. Possui uma carapaça dura, casco ou exoesqueleto forte? -> NAO
+  19. É um animal que NÃO possui patas/pernas? -> NAO
+  20. Possui exatamente quatro patas para caminhar? -> NAO
+  21. Possui rabo/cauda visível? -> SIM
+  22. Pode ser peçonhento, venenoso ou soltar toxinas? -> NAO
+  23. É um animal de porte muito grande ou gigante? -> NAO
+  24. É um predador ou tem a carne como base principal de sua dieta? -> NAO
+
+RESULTADO DA INFERÊNCIA:
+  Palpite mais provável do sistema: Canguru 🦘
+  Outras opções restantes (Incerteza): Macaco 🐒
+
+==================================================
+
